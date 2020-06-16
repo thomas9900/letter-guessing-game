@@ -1,3 +1,3 @@
-A simple guessing game
+#A simple guessing game
 
-On Netlify: https://letter-guessing.netlify.app/
+Link: https://letter-guessing.netlify.app/
