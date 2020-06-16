@@ -1,1 +1,3 @@
-a simple guessing game
+A simple guessing game
+
+On Netlify: 
